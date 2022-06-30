@@ -274,7 +274,7 @@ Launching ROS on a project from @Smart_methods for a robotic arm
 roslaunch robot_arm_pkg check_motors.launch
 ```
 
-Congrats!! :) everything is set up you can upload any project you want 
+Congrats!! :) everything is set up you can open any project you want 
 
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/107954336/176787831-7a983435-8aca-4f8d-afcd-36c967d1b654.png">
 
