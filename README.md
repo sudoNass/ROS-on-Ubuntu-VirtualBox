@@ -25,8 +25,8 @@ now after downloading VirtualBox you can download and run any OS you like throug
 
 ## Second step: Downloading Ubuntu
 
-Ubuntu Desktop is a Linux distribution and we need it in our next projects
-we will download the Ubuntu Desktop it will be in a disk image format
+Ubuntu Desktop is a Linux distribution and we need it for our next projects
+Ubuntu Desktop will be in disk image format
 
 ### System Requirements for Ubuntu
 - 4GB RAM or more
