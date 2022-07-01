@@ -50,11 +50,11 @@ and it's gonna ask us for a name so we are going to name it "Ubuntu20.04" or wha
 
 And for Machine Folder you can leave it as default unless you want to save it in a specific location it's up to you
 
-the type we are going to select "Linux" nd the version Ubuntu(64-bit)
+the type we are going to select "Linux" and the version Ubuntu(64-bit)
 <img width="561" alt="image" src="https://user-images.githubusercontent.com/107954336/176768419-ea517804-dde5-4098-a20d-ecd02495d7d7.png">
 
 
-for memoriy size you need at least 4GB RAM
+for memory size you need at least 4GB RAM
 
 <img width="560" alt="image" src="https://user-images.githubusercontent.com/107954336/176768667-369e2f5f-efcc-49dc-a056-db27d8f055fe.png">
 
@@ -70,7 +70,7 @@ for the disk space at least give it a 25GB
 
 ## Fourth Step: Modify in the settings
 
-now we have created the Virtual Machine so now wwe have to modify a few things in the settings
+now we have created the Virtual Machine so now we have to modify a few things in the settings
 click on Ubuntu then on the settings
 
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/107954336/176771288-f06d5cf3-3234-467b-b500-356bca7574b0.png">
@@ -102,10 +102,10 @@ now the important part here in the "storage" i'm going to select the empty disk 
 
 
 
-and the rest of the setting i'm going to leave it as default
+and the rest of the settings i'm going to leave it as default
 
 now we are going to select the installation then click on "Start"
-in the start-up disk make sure to select the ubuntu iso image disk then click start
+in the start-up disk make sure to select the "ubuntu iso image disk" then click start
 
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/107954336/176780672-71e8fd53-55d9-42be-91f6-6b707877c071.png">
 
@@ -119,11 +119,11 @@ next you can select your language then press "Install Ubuntu"
 
 
 
-Write your name or your computer's name, for username you can change it as you like and set a password and make sure you remember it because it's going to ask for it before you download something
+Write your name or your computer's name, for username you can change it as you like and set a password and make sure you remember it because you are going to use it a lot as a permission key on Ubuntu.
 
 <img width="1023" alt="image" src="https://user-images.githubusercontent.com/107954336/176781473-213ccafe-13cf-456e-95a1-380334680908.png">
 
-now after the restart we almost done and we got this desktop but it's a small box, we are going to write a few commands so it fit in the screen like a normal desktop, open the menu and search for "Terminal" from here
+now after the restart we are almost done and we got this desktop but it's a small box, we are going to write a few commands so it fit in the screen like a normal desktop, open the menu and search for "Terminal" from here
 
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/107954336/176782174-cb307dfe-efbc-488a-b766-4a93fad7da15.png">
 
