@@ -6,7 +6,7 @@ A guide for installing ROS neotic on ubuntu
 
 #### what is VirtualBox?
 
-first i will explain the ideai of it for those who have no clue about it so they can understand how it works.
+first i will explain the idea of it for those who have no clue about it so they can understand how it works.
 
 VirtualBox is open-source software for virtualizing the x86 computing architecture. It acts as a hypervisor, creating a VM (virtual machine) where the user can run another OS (operating system).
 
