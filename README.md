@@ -192,6 +192,15 @@ updating
 sudo apt-get update
 ```
 
+ROS distributions are linked to Ubuntu versions:
+
+- Ubuntu 20.04 -> Noetic
+
+- Ubuntu 18.04 -> Melodic
+
+- Ubuntu 16.04 -> Kinetic
+    
+now i'm using Ubuntu 20.04 so i'll install neotic, you can change "neotic" to one of the above depending on what version you are working with!   
 Installing ROS neotic Desktop-Full ,Everything in Desktop plus 2D/3D simulators and 2D/3D perception packages 
 
 ```
