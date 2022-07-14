@@ -16,10 +16,9 @@ When configuring a virtual machine, the user can specify how many CPU cores, and
 
 #### Downloading Link for VirtualBox
 
-you can download it from thier website in the link down below:
-```
-https://www.virtualbox.org/wiki/Downloads
-```
+you can download it from thier website by [clicking here!](https://www.virtualbox.org/wiki/Downloads)
+
+
 now after downloading VirtualBox you can download and run any OS you like through it
 
 
@@ -34,10 +33,8 @@ Ubuntu Desktop will be in disk image format
 
 #### Downloading Link for Ubuntu
 
-you can download it from thier website in the link down below:
-```
-https://ubuntu.com/download
-```
+you can download it from thier website by [clicking here!](https://ubuntu.com/download)
+
 
 ## Third step: Creating a new Virtual Machine
 
